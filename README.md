@@ -49,8 +49,8 @@ O ERP da Eryno é um camaleão tecnológico. Cada setor possui sua própria inte
 Embora sejamos abertos, nossa excelência técnica se baseia em ferramentas de alto desempenho:
 
 - **Backend:** [Node.js / Python / Go] 
-- **Frontend:** [React / Next.js / Tailwind CSS]
-- **Infra:** [Docker / Kubernetes / AWS]
+- **Frontend:** [SvelteKit / Typescrit / Tailwind CSS]
+- **Infra:** [Docker / NGINX / GCP]
 - **Inteligência:** Integração nativa com LLMs e modelos de IA para análise de dados.
 
 ---
